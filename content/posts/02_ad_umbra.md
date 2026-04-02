@@ -7,9 +7,9 @@ title = 'Ad Umbra; or, Vampire Strikes Back'
 *He must be theory-mad beyond redemption who, in spite of [their]: differences, shall still persist in attempting to reconcile the obstinate oils and waters of Poetry and Truth.*
 (Edgar Allan Poe)
 
-Roses are red
-Violets are blue
-If you thought the former green
+Roses are red <br>
+Violets are blue <br>
+If you thought the former green <br>
 You might be deuteropic too.
 
 ---
