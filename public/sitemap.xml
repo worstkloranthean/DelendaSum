@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/delendasum/</loc>
+    <lastmod>2025-12-06T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/posts/</loc>
+    <lastmod>2025-12-06T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/posts/04_prior_posteriori_derogat/</loc>
+    <lastmod>2025-12-06T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/posts/03_arse_gratia_artis/</loc>
+    <lastmod>2025-09-20T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/posts/02_ad_umbra/</loc>
+    <lastmod>2025-08-09T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/posts/01_rebus_sic_stantibus/</loc>
+    <lastmod>2025-04-25T16:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/delendasum/tags/</loc>
+  </url>
+</urlset>

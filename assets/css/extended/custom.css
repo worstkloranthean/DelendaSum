@@ -1,0 +1,14 @@
+.footnotes>hr {
+    display: none;
+}
+
+.post-content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.post-content a.footnote-ref,
+.footnotes a.footnote-backref {
+    box-shadow: none !important;
+    text-decoration: none !important;
+}
