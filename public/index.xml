@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Delenda Sum</title>
-    <link>http://localhost:1313/delendasum/</link>
+    <link>http://localhost:38481/delendasum/</link>
     <description>Recent content on Delenda Sum</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Dec 2025 16:30:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/delendasum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38481/delendasum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prior, Posteriori, Derogat?; or, Ego and Ed</title>
-      <link>http://localhost:1313/delendasum/posts/04_prior_posteriori_derogat/</link>
+      <link>http://localhost:38481/delendasum/posts/04_prior_posteriori_derogat/</link>
       <pubDate>Sat, 06 Dec 2025 16:30:04 +0100</pubDate>
-      <guid>http://localhost:1313/delendasum/posts/04_prior_posteriori_derogat/</guid>
+      <guid>http://localhost:38481/delendasum/posts/04_prior_posteriori_derogat/</guid>
       <description>&lt;p&gt;&lt;em&gt;Glass and peace alike betray proof of fragility under repeated blows.&lt;/em&gt;
 (David Mitchell)&lt;/p&gt;
 &lt;p&gt;Add this blog to that list; a glassy plaque of peevish suppositions of sheepish propositions of peace.
@@ -22,9 +22,9 @@ Id est, don’t read this too many times, please.&lt;/p&gt;
     </item>
     <item>
       <title>Ars(e) Gratia Artis</title>
-      <link>http://localhost:1313/delendasum/posts/03_arse_gratia_artis/</link>
+      <link>http://localhost:38481/delendasum/posts/03_arse_gratia_artis/</link>
       <pubDate>Sat, 20 Sep 2025 16:30:04 +0100</pubDate>
-      <guid>http://localhost:1313/delendasum/posts/03_arse_gratia_artis/</guid>
+      <guid>http://localhost:38481/delendasum/posts/03_arse_gratia_artis/</guid>
       <description>&lt;p&gt;&lt;em&gt;The aims of art are incommensurate (as the mathematicians say) with social aims. The aim of an artist is not to solve a problem irrefutably, but to make people love life in all its countless, inexhaustible manifestations.&lt;/em&gt;
 (Leo Tolstoy)&lt;/p&gt;
 &lt;p&gt;What is art? [Term of endearment] don&amp;rsquo;t quote me, don’t quoth me, ever more.
@@ -34,9 +34,9 @@ But certainly not whatever follows.&lt;/p&gt;
     </item>
     <item>
       <title>Ad Umbra; or, Vampire Strikes Back</title>
-      <link>http://localhost:1313/delendasum/posts/02_ad_umbra/</link>
+      <link>http://localhost:38481/delendasum/posts/02_ad_umbra/</link>
       <pubDate>Sat, 09 Aug 2025 16:30:04 +0100</pubDate>
-      <guid>http://localhost:1313/delendasum/posts/02_ad_umbra/</guid>
+      <guid>http://localhost:38481/delendasum/posts/02_ad_umbra/</guid>
       <description>&lt;p&gt;&lt;em&gt;He must be theory-mad beyond redemption who, in spite of [their]: differences, shall still persist in attempting to reconcile the obstinate oils and waters of Poetry and Truth.&lt;/em&gt;
 (Edgar Allan Poe)&lt;/p&gt;
 &lt;p&gt;Roses are red &lt;br&gt;
@@ -44,18 +44,18 @@ Violets are blue &lt;br&gt;
 If you thought the former green &lt;br&gt;
 You might be deuteropic too.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;I am burning glass bridges. That faint memory of coasting a caustic two,five-dichlorophenol on borosilicate a toast of catharsis. The moat-ley annulus of tranquility around this moltening fortitude an iota of solace. Opening a window. The darkness outside makes my room’s meagre scintillations reach further than I wish. Thinking of Rhapsodic openings, of introductory phrases betraying thematic portents (oh no). Of red herrings. Of this reluctant yearning for cumpescatory naps&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; while these weary wares remain vainly void of those vistas of vantablack. Of salmons in no rush to d perish, keeping their monocular vigil against Platonic troglodytes; bending my knees to that nepotic nose-bloodening genuflection at the beginning of a wondrous pilgrimage. Of handing you a Brobdingnagian receptacle of words and pouring in less than a drop of meaning as I rejoice in this most Badr-ic a fashion. Aye, this nigh hill is my abode&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, quite humble. Everything’s fair from the vantage of this solipsistic denial of the self.&lt;/p&gt;</description>
+&lt;p&gt;I am burning glass bridges. That faint memory of coasting a caustic two,five-dichlorophenol on borosilicate a toast of catharsis. The moat-ley annulus of tranquility around this moltening fortitude an iota of solace. Opening a window. The darkness outside makes my room’s meagre scintillations reach further than I wish. Thinking of Rhapsodic openings, of introductory phrases betraying thematic portents (oh no). Of red herrings. Of this reluctant yearning for cumpescatory naps&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; while these weary wares remain vainly void of those vistas of vantablack. Of salmons in no rush to &lt;del&gt;d&lt;/del&gt; perish, keeping their monocular vigil against Platonic troglodytes; bending my knees to that nepotic nose-bloodening genuflection at the beginning of a wondrous pilgrimage. Of handing you a Brobdingnagian receptacle of words and pouring in less than a drop of meaning as I rejoice in this most Badr-ic a fashion. Aye, this nigh hill is my abode&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, quite humble. Everything’s fair from the vantage of this solipsistic denial of the self.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rebus Sic Stantibus</title>
-      <link>http://localhost:1313/delendasum/posts/01_rebus_sic_stantibus/</link>
+      <link>http://localhost:38481/delendasum/posts/01_rebus_sic_stantibus/</link>
       <pubDate>Fri, 25 Apr 2025 16:30:04 +0100</pubDate>
-      <guid>http://localhost:1313/delendasum/posts/01_rebus_sic_stantibus/</guid>
+      <guid>http://localhost:38481/delendasum/posts/01_rebus_sic_stantibus/</guid>
       <description>&lt;p&gt;&lt;em&gt;I promise nothing complete, because any human thing supposed to be complete must for that very reason infallibly be faulty.&lt;/em&gt; (Herman Melville)&lt;/p&gt;
 &lt;p&gt;The following text is a complete feculence-fest.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;This is not a blog. Or the draft of a blog. Or the unfinished husk of a dilettante impetus to exhibit profundity where none exists.&lt;/p&gt;
-&lt;p&gt;This is not a fugue-state fueled stream of unfiltered notions stemming from a feeling I’ve gaslated myself to consider worth sharing&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
+&lt;p&gt;This is not a fugue-state fueled stream of unfiltered notions stemming from a feeling I’ve gas&lt;em&gt;lated&lt;/em&gt; myself to consider worth sharing&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
